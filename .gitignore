@@ -1,0 +1,14 @@
+# Ignore Windows system files
+AppData/
+NTUSER.DAT
+Desktop.ini
+Thumbs.db
+
+# Ignore VSCode settings
+.vscode/
+*.code-workspace
+
+# Ignore Node.js & Laravel dependencies
+node_modules/
+vendor/
+.env
